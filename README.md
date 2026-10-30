@@ -1,4 +1,4 @@
-# Hi there, I'm Giddymaster! 👋
+# Hi there, I'm TheFreeSpiritDev! 👋
 
 ## About Me
 I'm a **math graduate** with **intermediary IT skills** and a passion for technology, finance, and business. I specialize in:
@@ -24,7 +24,7 @@ These skills help me in:
 - **Fintech & Microfinance Solutions** creating banking application for banking sector
 
 ## 📈 GitHub Stats
-![Giddymaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giddymaster&show_icons=true&theme=radical)  
+![TheFreeSpiritDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFreeSpiritDev&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 <p text-align="center">
